@@ -6,4 +6,14 @@
     --secondary-color: #F05454;
     --tipo-fonts:"Edu Australia VIC WA NT Hand Guides", sans-serif;
 }
+/* código omitido */
+
+body {
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+    font-family: var(--font);
+    height: 100vh;
+    margin: 0;
+}
+
 
