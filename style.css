@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Guides:wght@400..700&display=swap');
 
 :root {
-    --bg-color: #222831;
-    --primary-color: #DDDDDD;
-    --secondary-color: #F05454;
-    --tipo-fonts:"Edu Australia VIC WA NT Hand Guides", sans-serif;
+    --bg-color: #181C14;
+    --primary-color: #3C3D37;
+    --secondary-color: #697565;
+    --font:"Edu Australia VIC WA NT Hand Guides", sans-serif;
 }
 /* código omitido */
 
