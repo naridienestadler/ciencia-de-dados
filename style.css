@@ -3,7 +3,7 @@
 :root {
     --bg-color: #181C14;
     --primary-color: #3C3D37;
-    --secondary-color: #697565;
+    --secondary-color: #5a6655;
     --font:"Edu Australia VIC WA NT Hand Guides", sans-serif;
 }
 
@@ -26,6 +26,19 @@ h1 {
     color: var(--bg-color);
      font-weight: 700;
 }
+
+nav {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+}
+
+nav a {
+    text-decoration: none;
+    color: var(--bg-color);
+     margin: 0 2rem 1rem 0rem;
+}
+
 
 
 
