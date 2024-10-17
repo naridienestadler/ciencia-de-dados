@@ -47,8 +47,11 @@ nav a:hover {
 }
 
 .graficos-container {
-    margin: 5rem;
+    margin: 3rem;
    }
+.graficos-container {
+    margin: 5rem;
+    }
 
    .graficos-container_texto {
     font-size: 1.3rem;
